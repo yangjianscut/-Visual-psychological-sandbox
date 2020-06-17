@@ -21,12 +21,18 @@ SOURCES += \
     login.cpp \
     main.cpp \
     mainwindow.cpp \
-    regi.cpp
+    regi.cpp \
+    save.cpp \
+    item.cpp \
+    sandbox.cpp
 
 HEADERS += \
     login.h \
     mainwindow.h \
-    regi.h
+    regi.h \
+    save.h \
+    item.h \
+    sandbox.h
 
 FORMS += \
     login.ui \
