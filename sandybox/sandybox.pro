@@ -24,7 +24,9 @@ SOURCES += \
     regi.cpp \
     save.cpp \
     item.cpp \
-    sandbox.cpp
+    sandbox.cpp \
+    position.cpp \
+    item_value.cpp
 
 HEADERS += \
     login.h \
@@ -32,7 +34,9 @@ HEADERS += \
     regi.h \
     save.h \
     item.h \
-    sandbox.h
+    sandbox.h \
+    position.h \
+    item_value.h
 
 FORMS += \
     login.ui \
